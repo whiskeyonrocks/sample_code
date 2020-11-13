@@ -1,4 +1,5 @@
-git push -u origin new-remote
+git push -u origin remote
+git push origin remote
 git push origin nb:nb
 git push origin HEAD
 
