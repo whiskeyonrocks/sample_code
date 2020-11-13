@@ -1,0 +1,16 @@
+git push -u origin new-remote
+git push origin nb:nb
+git push origin HEAD
+
+git push origin :new-remote
+git push origin --delete new-remote
+
+git branch --merged
+git remote -v
+git remote add origin url
+git remote rm origin
+git branch -m old_name new_name
+git branch -d origin/remote? - NO
+git branch -d local
+
+git checkout -b local_branch origin/remote-branch
