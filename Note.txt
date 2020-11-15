@@ -15,3 +15,5 @@ git branch -d origin/remote? - NO
 git branch -d local
 
 git checkout -b local_branch origin/remote-branch
+
+git logg = git log --graph --decorate --oneline --all
